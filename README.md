@@ -25,4 +25,6 @@ Bitcoin is one of the most widely used applications of blockchain technology. It
 
 Mapping of requirements with artifacts is done efficiently using blockchain. We have implemented functions which can modify the status of test cases and different testing methods. We can also get all information corresponding to a particular requirement. We can directly get the status of test cases in constant time using mapping data structure.
 
+RTM_using_Blockchain.sol file contains the code of above idea.
+
 
