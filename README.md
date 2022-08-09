@@ -27,4 +27,6 @@ Mapping of requirements with artifacts is done efficiently using blockchain. We 
 
 RTM_using_Blockchain.sol file contains the code of above idea.
 
+We have also made a report which contains all relevant information corresponding to RTM and Blockchain. We have also included proposed framework which describes how four layers of Blockchain coordinates and stores information efficiently. All related works in this field have also been mentioned. Cons of our system is also mentioned which will help others to eliminate them.
+
 
